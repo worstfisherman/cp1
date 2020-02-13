@@ -1,0 +1,41 @@
+#otvet {
+	display: none;
+}
+body {
+	background: #eee;
+	text-align: center;
+	font-family: verdana;
+}
+p {
+	font-size: 20px;
+}
+pre {
+	margin: 20px auto;
+	width: 380px;
+	padding: 25px;
+	background: #eee;
+	border: 1px #eee;
+	font-size: 18px;
+	font-color: red;
+	font-family: verdana;
+	text-align: left;
+}
+input[type="number"] {
+	width: 40px;
+	text-align: right;
+}
+input[type="number"] {
+	width: 40px;
+	text-align: right;
+}
+input[type="button"] {
+	background: #009f00;
+	border: none;
+	padding: 10px 35px;
+	font-size: 20px;
+	color: #fff;
+	border-radius: 6px;
+}
+input[type="button"]:hover {
+	opacity: 0.8;
+}

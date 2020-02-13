@@ -1,0 +1,18 @@
+THE QUADRATIC FORMULA.
+
+There is an optimal way to find the value of x that makes the equation true by replacing the values in a formula with the coefficients from the quadratic equation. This is called the "quadratic formula", which is:
+
+x = (-b +/- sqrt(b^2-4ac) / 2a
+
+The numbers represented by a, b, and c are the same as those in the original equation, ax2 + bx + c = 0. For this formula to work properly, a cannot be equal to 0 for the formula (but really, when a = 0 in the original equation, it is not quadratic since there is no x-squared term).
+
+The factored form of this equation is y = a(x − s)(x − t), where s and t are the zeros, a is a constant, and y and the two values of x are ordered pairs which satisfy the equation.
+
+Unlike the other methods, the quadratic equation will work with every possible value for a, b, and c, even if there are no "real roots", that is, places where the graph of the function touches the x-axis.
+
+The value inside the square root, that is, b^2 - 4ac, is known as the discriminant
+(D). It can tell whether the roots are real or Imaginary. There are three cases:
+
+1. If the D is positive, there will be two values for x and therefore two separate roots, one at each place where the graph crosses the x-axis.
+2. If the D is equal to zero, there is only one value for x, but there are in fact two roots which are equal. The graph touches the x-axis at its vertex, but does not cross it.
+3. If the D is negative, there is no real value of x. On a graph, the function does not even touch the x-axis, but the roots are still there. The value of the roots here is a complex number, which uses the value i to represent sqrt(-1)

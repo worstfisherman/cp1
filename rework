@@ -1,0 +1,37 @@
+
+# 3) Equations of degree 1:
+echo "Enter an equation of degree 1"; #OK
+node computor.js "5 * X ^ 0 = 4 * X ^ 0 + 7 * X ^ 1"; #OK
+echo "RIGHT ANSWER: 0.142857" #-0.142857
+echo " "
+
+# 8) Equations in natural form. 
+echo "Enter an equation in natural form. Management of natural input output"; #Wrong!
+node computor.js "5 + 4 * X + X^2= X^2"
+echo "RIGHT ANSWER: -1.25" #-1.25
+echo " "
+
+# Good after, if the program
+# Resoud, put the points anyway and make a little hiss
+# admiration, but in any case, the program should not crash.
+
+# Есть ли Bonus?
+
+# Management of the input in natural form
+
+# The program is able to handle an entry in natural form?
+# - Only one coefficient ("4") is considered to be in factor of X ^ 0.
+# - Only one X is considered as coefficient 1 and power 1.
+# - An absent power ("4 * X") is considered to be worth 1.
+# - An absent coefficient ("X ^ 6") is considered to be worth 1.
+# - The powers can be in an arbitrary order, possibly repeated.
+
+
+# Management of errors on the input (lexicon and syntax).
+
+# Display results as an irreducible fraction when it's relevant.
+ 
+# Show intermediate steps.
+
+# Etc ...
+
