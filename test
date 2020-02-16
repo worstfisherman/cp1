@@ -48,7 +48,7 @@ echo " "
 
 # 8) Equations in natural form. 
 echo "Enter an equation in natural form. Management of natural input output"; #Wrong!
-node computor.js "5 + X + X^2= X^2"
+node computor.js "5 + 4 * X + X^2= X^2"
 #echo "RIGHT ANSWER: -1.25" #-1.25
 echo " "
 

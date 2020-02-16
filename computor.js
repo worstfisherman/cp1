@@ -71,6 +71,8 @@ function simplify(pol) {
        return prev;
      }, []);
 }
+console.log("!!!mainParam[0] (formula[0]) BEFORE parseSide: " + formula[0]);
+console.log("!!!mainParam[0] (formula[1]) BEFORE parseSide: " + formula[1]);
 var polL = simplify(parseSide(formula[0]));
 var polR = simplify(parseSide(formula[1]));
 
